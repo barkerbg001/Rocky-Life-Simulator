@@ -111,4 +111,4 @@ Rocky is waiting for you. Are you ready to experience the most rockin’ simulat
 
 ### Author
 
-Developed with 🪨 by [Your Name](https://github.com/barkerbg001).
+Developed with 🪨 by [Barkerbg001](https://github.com/barkerbg001).
