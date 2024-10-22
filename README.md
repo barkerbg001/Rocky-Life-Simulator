@@ -40,8 +40,8 @@ pip install plyer
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Rocky-The-Rock-Life-Simulator.git
-   cd Rocky-The-Rock-Life-Simulator
+   git clone https://github.com/barkerbg001/Rocky-Life-Simulator.git
+   cd Rocky-Life-Simulator
    ```
 
 2. Run the program:
@@ -111,4 +111,4 @@ Rocky is waiting for you. Are you ready to experience the most rockin’ simulat
 
 ### Author
 
-Developed with 🪨 by [Your Name](https://github.com/yourusername).
+Developed with 🪨 by [Your Name](https://github.com/barkerbg001).
